@@ -1,0 +1,7 @@
+<config>
+  <graphvizPath>C:/Program Files/Graphviz/bin/dot.exe</graphvizPath>  <!-- путь к dot -->
+  <packageName>com.example.mypackage</packageName>
+  <outputPath>dependencies.dot</outputPath>
+  <maxDepth>2</maxDepth>
+  <sourceDir>./com</sourceDir> <!-- путь к тестовым исходникам -->
+</config>
